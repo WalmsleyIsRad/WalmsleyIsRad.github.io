@@ -4,6 +4,12 @@ This week I learned that we need to listen to directions closely. Respect yourse
 
 ---
 
-# Intro 9/14/2018
+# Variable and Expressions 9/14/2018
 
 This week I learned about how to add strings. I learned how to concatenate variables. I learned that you need a space in quotation marks to have space between two or more words. I learned that the string is the biggest of the four types of coding. I learned that boolean was named after George Boole. I learned to not miss this class for the command post.
+
+---
+
+# Conditionals 9/21/2018
+
+This week I learned about if statements. I learned that if, elif, and else must have a colon afterwards. I learned that elif is else if. I learned that we can if statements within other if statements. I learned that elif makes the program not run line by line all the time. I learned that how to create a random number generator.
