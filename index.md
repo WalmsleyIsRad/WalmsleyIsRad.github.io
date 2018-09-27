@@ -13,3 +13,9 @@ This week I learned about how to add strings. I learned how to concatenate varia
 # Conditionals 9/21/2018
 
 This week I learned about if statements. I learned that if, elif, and else must have a colon afterwards. I learned that elif is else if. I learned that we can if statements within other if statements. I learned that elif makes the program not run line by line all the time. I learned that how to create a random number generator.
+
+---
+
+# Lists 9/27/2018
+
+This week I learned how to create a list. I learned that if you want to print only the first string in a list, you have to type list[0]. I learned how to code and produce a graph. I learned how to write boolean statements in an if statement. I learned that you can print certain things from a list. I learned that you can type integers and strings into a list and it will function.
