@@ -19,3 +19,9 @@ This week I learned about if statements. I learned that if, elif, and else must 
 # Lists 9/27/2018
 
 This week I learned how to create a list. I learned that if you want to print only the first string in a list, you have to type list[0]. I learned how to code and produce a graph. I learned how to write boolean statements in an if statement. I learned that you can print certain things from a list. I learned that you can type integers and strings into a list and it will function.
+
+---
+
+# Loops Part 1 10/5/2018
+
+This week I learned how to add to a list. I learned how to remove something from a list. I learned how to print the list in all caps. I learned how to print the list backwards. I learned the basics of a for loop. I learned that a loop will repeat code as many times as you want it to. 
