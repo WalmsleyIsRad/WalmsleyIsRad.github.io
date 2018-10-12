@@ -25,3 +25,9 @@ This week I learned how to create a list. I learned that if you want to print on
 # Loops Part 1 10/5/2018
 
 This week I learned how to add to a list. I learned how to remove something from a list. I learned how to print the list in all caps. I learned how to print the list backwards. I learned the basics of a for loop. I learned that a loop will repeat code as many times as you want it to. 
+
+---
+
+# Loops Part 2 10/12/2018
+
+This week I learned that I overcomplicate my code. I learned that you need to split up each step in a program in order to make coding simpler. I learned that for loops and lists are very important in coding. I learned that going in for tutorial will make my life easier. I learned how to change variable types. I learned that 1 gigbyte is HUGE.
