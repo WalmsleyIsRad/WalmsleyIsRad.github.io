@@ -31,3 +31,9 @@ This week I learned how to add to a list. I learned how to remove something from
 # Loops Part 2 10/12/2018
 
 This week I learned that I overcomplicate my code. I learned that you need to split up each step in a program in order to make coding simpler. I learned that for loops and lists are very important in coding. I learned that going in for tutorial will make my life easier. I learned how to change variable types. I learned that 1 gigbyte is HUGE.
+
+---
+
+# Dictionaries 10/19/2018
+
+This week I was introduced to dictionaries. I learned that you need french brackets to create a dictionary. I learned that each key has a value in the dictionary. I learned that you can have lists inside dictionaries and dictionaries inside lists. I learned that you use the regular brackets to do anything else with a dictionary except create it. I learned that coding takes time and patience.
