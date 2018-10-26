@@ -37,3 +37,9 @@ This week I learned that I overcomplicate my code. I learned that you need to sp
 # Dictionaries 10/19/2018
 
 This week I was introduced to dictionaries. I learned that you need french brackets to create a dictionary. I learned that each key has a value in the dictionary. I learned that you can have lists inside dictionaries and dictionaries inside lists. I learned that you use the regular brackets to do anything else with a dictionary except create it. I learned that coding takes time and patience.
+
+---
+
+# While Loops/Scope 10/26/2018
+
+This week I learned about how while loops work. I also learned about the scope of a variable. The scope was described when a variable was active. I also learned how to print words in all caps. I learned that indenting matters when you want certain code to be placed inside the loop and also outside the loop. I learned that variables created inside the loop are only active inside that loop.
