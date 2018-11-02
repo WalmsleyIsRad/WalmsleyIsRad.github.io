@@ -43,3 +43,9 @@ This week I was introduced to dictionaries. I learned that you need french brack
 # While Loops/Scope 10/26/2018
 
 This week I learned about how while loops work. I also learned about the scope of a variable. The scope was described when a variable was active. I also learned how to print words in all caps. I learned that indenting matters when you want certain code to be placed inside the loop and also outside the loop. I learned that variables created inside the loop are only active inside that loop.
+
+---
+
+#Functions 11/2/2018
+
+This week I learned about the basics of functions. I learned that you have to type def to create a function. I learned that you have to code the functions at the upper lines of code and have the testing part below. I learned that you can call the function at any point in time. I learned that you can have a function within another function. I learned that function are very hard to understand when you have functions withing function.
