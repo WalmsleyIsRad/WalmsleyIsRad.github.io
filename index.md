@@ -46,6 +46,12 @@ This week I learned about how while loops work. I also learned about the scope o
 
 ---
 
-#Functions 11/2/2018
+# Functions 11/2/2018
 
 This week I learned about the basics of functions. I learned that you have to type def to create a function. I learned that you have to code the functions at the upper lines of code and have the testing part below. I learned that you can call the function at any point in time. I learned that you can have a function within another function. I learned that function are very hard to understand when you have functions withing function.
+
+---
+
+# Recursion 11/9/2018
+
+This week I learned about recursion. I learned about the difference between recursion and iteration. I learned that recursion is basically repeating a function within itself. I learned that you do not need a loop for recursions. I learned that recursion can happen a number of times and not infinitely. I learned that recursion is like a piece of paper that is twisted and taped to the end as seen in the video you showed us.
