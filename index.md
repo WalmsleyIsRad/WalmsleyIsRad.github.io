@@ -55,3 +55,9 @@ This week I learned about the basics of functions. I learned that you have to ty
 # Recursion 11/9/2018
 
 This week I learned about recursion. I learned about the difference between recursion and iteration. I learned that recursion is basically repeating a function within itself. I learned that you do not need a loop for recursions. I learned that recursion can happen a number of times and not infinitely. I learned that recursion is like a piece of paper that is twisted and taped to the end as seen in the video you showed us.
+
+---
+
+# Classes 11/16/2018
+
+This week I learned about classes. I learned that you define classes like functions, but there are no parenthesis an you can capitalize the class name. I learned that you have to put self in every function within the class. I learned that you have to have self.variable name for each variable defined in a function within a class. I learned that classes are used for organization of code. I learned that you call a class the same way you call a fuction. I learned about the __init__ function.
