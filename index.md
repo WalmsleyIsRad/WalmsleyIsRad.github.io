@@ -61,3 +61,10 @@ This week I learned about recursion. I learned about the difference between recu
 # Classes 11/16/2018
 
 This week I learned about classes. I learned that you define classes like functions, but there are no parenthesis an you can capitalize the class name. I learned that you have to put self in every function within the class. I learned that you have to have self.variable name for each variable defined in a function within a class. I learned that classes are used for organization of code. I learned that you call a class the same way you call a fuction. I learned about the __init__ function.
+
+---
+
+# Classes cont. 11/30/2018
+
+This week we continued to learn about classes. Classes help group functions and can be called. We learned about the __init__ function of python. We also learned that you should import things at the top of the code so you don't have to import multiple times. We learned that 
+that you can just use the shuffle cards using python, but we did it the hard way. We learned that about the raise function in python.
