@@ -68,3 +68,9 @@ This week I learned about classes. I learned that you define classes like functi
 
 This week we continued to learn about classes. Classes help group functions and can be called. We learned about the __init__ function of python. We also learned that you should import things at the top of the code so you don't have to import multiple times. We learned that 
 that you can just use the shuffle cards using python, but we did it the hard way. We learned that about the raise function in python.
+
+---
+
+# Go Fish 12/7/2018
+
+This week we learned about how to code the game go fish. We learned how to import code from another program. We learned about the Exception part of coding. We learned about the ValueError part of coding. We learned you need booleans to affect the code. We learned that you can call functions from another program if they are imported.
