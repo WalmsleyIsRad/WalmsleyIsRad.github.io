@@ -74,3 +74,9 @@ that you can just use the shuffle cards using python, but we did it the hard way
 # Go Fish 12/7/2018
 
 This week we learned about how to code the game go fish. We learned how to import code from another program. We learned about the Exception part of coding. We learned about the ValueError part of coding. We learned you need booleans to affect the code. We learned that you can call functions from another program if they are imported.
+
+---
+
+# Raspberry Pi 12/14/2018
+
+This week we started out projects on the raspberry pi. I learned that two people could execute a file at the same time and both of them popped up. I learned how to rotate the visuals. I learned how to change the color of the text. I learned how to display a single pixel in an array of pixels. I learned that the ip addresses are a little different depending upon the person.
